@@ -1,0 +1,12 @@
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.AssemblyReference.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.AnakCalc.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.IndukCalc.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.Properties.Resources.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.GenerateResource.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\New folder\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
